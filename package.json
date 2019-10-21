@@ -1,6 +1,9 @@
 {
   "name": "abrahama-portfolio",
   "version": "1.0.0",
+  "engines": {
+    "node": "10.16.3"
+  },
   "description": "Personal portfolio app built in React",
   "scripts": {
     "preinstall": "npm set audit false",
